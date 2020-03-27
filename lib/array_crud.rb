@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  [ele1, ele2, ele3, ele4]
+  [first, second, third, fourth]
 end
 
 def add_element_to_end_of_array(array, element)
